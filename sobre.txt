@@ -1,2 +1,5 @@
-Conteúdo para testar o terminal Linux
+Conteúdo para testar o terminal Linux. 
+
+Acrescentando ao texto.
+
 
